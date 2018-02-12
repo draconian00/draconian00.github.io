@@ -1,0 +1,32 @@
+@font-face {
+    font-family: YouAndIWeb;
+    src: url(../font/YouandiModernTR.woff),
+         url(../font/YouandiModernTR.eof);
+}
+
+.you-and-i {
+    font-family: YouAndIWeb !important;
+}
+
+.header-1 {
+    line-height: 1.4;
+}
+
+#main_ex {
+    padding-top: 13rem;
+    padding-left: 8rem;
+}
+
+#head_head {
+    font-size: 2rem;
+}
+
+#main_list {
+    margin-top: 2rem;
+    font-size: 1.6rem;
+    line-height: 2;
+}
+
+#last_comment {
+    line-height: 1.6;
+}
