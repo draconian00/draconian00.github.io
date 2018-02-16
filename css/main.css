@@ -42,6 +42,9 @@
 }
 
 @media screen and (min-width: 769px) and (max-width: 1024px) {
+    #main_list {
+        font-size: 1.5rem;
+    }
     #main_ex {
         padding-top: 8rem;
         padding-left: 0.94rem;
