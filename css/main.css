@@ -30,3 +30,20 @@
 #last_comment {
     line-height: 1.6;
 }
+
+@media screen and (max-width: 768px) {
+    #main_list {
+        font-size: 1.4rem;
+    }
+    #main_ex {
+        padding-top: 4rem;
+        padding-left: 0.6rem;
+    }
+}
+
+@media screen and (min-width: 769px) and (max-width: 1024px) {
+    #main_ex {
+        padding-top: 8rem;
+        padding-left: 0.94rem;
+    }
+}
